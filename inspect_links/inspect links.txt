@@ -1,0 +1,138 @@
+2015
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018B30A54E494A2
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018B40AF929A114
+
+2016
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018BB0A7DC1A892
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018BC0AD37C5504
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018BD0A886D2882
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018BE0AFDA69008
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018BF0A12EC128A
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C00A491A2908
+
+Tier 7 The model for it exists in the game files but it has no item definition index assigned to it, so you can't have it
+
+2017
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CD0A09D12492
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CE0A94978414
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018CF0ADF5222AA
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D00AF7D404AA
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D10AE295A128
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D20A21FF4952
+
+Tier 7 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D30A6D13A454
+
+2018
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D70A59985224
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D80ACED0284A
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D90A8A1C9548
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018DA0AF95B5542
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018DB0A143A5044
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018DC0AFA7BA252
+
+2019
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018E00AA98E9254
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018E10ABE431552
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018E20A3FC55548
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018E30AF4E64A4A
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018E40ABD242444
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018E50AD209894A
+
+2020
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C224E43B0A92
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C324CEEFA510
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C424E2AE4AA2
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C5242DFF5424
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C624B87894AA
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018C724A35C1128
+
+2021
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018812510C7A152
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018822555400954
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20001883253A91A44A
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018842576CF4A48
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000188525BB84554A
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018862541069544
+
+2022
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D325772122A2
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D425D7651510
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D5258CB09292
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D6250D464A14
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D725222554AA
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D82594BE9508
+
+2023
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018892621B82AAA
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000188A2660325250
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000188B26AB235552
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000188C2662DF0124
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000188D264DF3A4A2
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%2000188E26CD744428
+
+2024
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018AA2620BE0894
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018AB2605AFAA2A
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018AC26AB6B48A8
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018AD26F080552A
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018AE2675E892A4
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018AF265AA91022
+
+2025
+Tier 1 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D7268D110822
+
+Tier 2 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D826F9D95284
+
+Tier 3 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018D92614945502
+
+Tier 4 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018DA26D0021488
+
+Tier 5 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018DB268B12AA0A
+
+Tier 6 steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018DC2666D34494

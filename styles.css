@@ -1,0 +1,116 @@
+@font-face {
+  font-family: "High Speed";
+  src: url("fonts/HighSpeed.woff2") format("woff2"),
+    url("fonts/HighSpeed.woff") format("woff"),
+    url("fonts/HighSpeed.ttf") format("truetype"),
+    url("fonts/HighSpeed.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "High Speed", Arial, sans-serif;
+  color: #fff;
+  padding: 10px;
+  margin: 0;
+  background-image: url("images/background.jpg");
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent overlay color */
+  background-blend-mode: darken; /* Blend mode */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: #fff;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers the items horizontally */
+  gap: 20px; /* Space between the items */
+}
+
+.year-section {
+  width: 400px; /* Set a fixed width for each container */
+  flex: 0 0 auto; /* Prevents items from stretching */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers child elements horizontally */
+  text-align: center;
+  background-color: rgba(34, 34, 34, 0.9);
+  padding: 10px 15px;
+  margin-bottom: 30px; /* Adjust margin as needed */
+  border-radius: 10px;
+  box-sizing: border-box; /* Ensures padding and border are included in width */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.year-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.divider {
+  width: 80%; /* Makes the divider span 80% of its container's width */
+  height: 2px; /* Sets the divider's thickness */
+  background-color: #444;
+  margin: 20px 0; /* Adds space above and below the divider */
+}
+
+.buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Adjust gap between buttons */
+  justify-content: center;
+}
+
+.button-wrapper {
+  display: flex;
+  flex-direction: column; /* Stacks button and text vertically */
+  align-items: center;
+}
+
+button {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block; /* Ensures no extra space below the image */
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.tier-text {
+  margin-top: 5px; /* Space between button and text */
+  font-size: 14px; /* Adjust font size as needed */
+  color: #fff; /* Text color */
+  text-align: center; /* Centers the text */
+}
